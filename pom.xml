@@ -75,7 +75,13 @@
             <artifactId>jackson-annotations</artifactId>
             <version>${json.version}</version>
         </dependency>
-
     </dependencies>
 
+    <modules>
+        <module>../my-db-entity</module>
+        <module>../my-db-access-tool</module>
+        <module>../my-db-service</module>
+        <module>../my-jwt</module>
+        <module>../my-api</module>
+    </modules>
 </project>
