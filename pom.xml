@@ -25,6 +25,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <json.version>2.16.1</json.version>
         <mysql.version>8.0.32</mysql.version>
+        <junit.version>4.13.2</junit.version>
     </properties>
 
     <dependencies>
@@ -83,5 +84,6 @@
         <module>../my-db-service</module>
         <module>../my-jwt</module>
         <module>../my-api</module>
+        <module>../my-redis-service</module>
     </modules>
 </project>
