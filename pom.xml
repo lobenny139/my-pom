@@ -23,7 +23,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <json.version>2.16.1</json.version>
-        <mysql.version>8.0.32</mysql.version>
+        <mysql.version>8.2.0</mysql.version>
         <junit.version>4.13.2</junit.version>
     </properties>
 
