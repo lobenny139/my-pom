@@ -95,6 +95,6 @@
         <module>../my-jwt</module>
         <module>../my-api</module>
         <module>../my-redis-service</module>
-        <module>../my-ldap</module>
+<!--        <module>../my-ldap</module>-->
     </modules>
 </project>
